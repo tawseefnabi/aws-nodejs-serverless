@@ -1,0 +1,26 @@
+{
+  "name": "aws-nodejs-serverless",
+  "version": "1.0.0",
+  "description": "Serverless Framework Node HTTP API on AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawseefnabi/aws-nodejs-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawseefnabi/aws-nodejs-serverless/issues"
+  },
+  "homepage": "https://github.com/tawseefnabi/aws-nodejs-serverless#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1180.0",
+    "serverless": "^3.21.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^9.0.0"
+  }
+}
